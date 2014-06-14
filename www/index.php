@@ -10,11 +10,7 @@
   <body>
     <h1>test</h1>
     <div class="desc">
-<<<<<<< HEAD
      testtest
-=======
-    	testtest
->>>>>>> origin/master
     </div>
   </body>
 </html>
