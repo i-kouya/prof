@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-	<title>test</title>
+	<title>testhogehoge</title>
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="/prof/www/js/bootstrap.js">
 	<style src="/prof/www/css/bootstrap.css">
